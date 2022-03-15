@@ -1,0 +1,27 @@
+.user-profile {
+  border-radius: 90px;
+  width: 40px;
+  height: 40px;
+  margin-right: 12px;
+}
+.name {
+  font-size: 22px;
+  font-family: Roboto;
+}
+.role {
+  font-size: 18px;
+  font-family: Roboto;
+}
+.text-container{
+    width:150px;
+}
+.button {
+  border-width: 0px;
+  background: transparent;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.delete-img {
+  width: 15px;
+  height: 15px;
+}
